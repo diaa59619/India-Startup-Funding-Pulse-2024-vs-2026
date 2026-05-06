@@ -52,7 +52,7 @@ india-startup-funding-analysis/
 ---
 
 ## Tableau Dashboard
-🔗 [View Live Dashboard](<PASTE YOUR TABLEAU PUBLIC LINK HERE>)
+Tableau dashboard file included in repo — open `dashboard.twb` in Tableau Public (free) to explore
 
 ---
 
